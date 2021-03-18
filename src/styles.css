@@ -1,0 +1,13 @@
+.btn {
+  width: 280px;
+  height: 70px;
+  border-color: black;
+}
+
+.question {
+  font-size: 21px;
+}
+
+.answer {
+  font-size: 18px;
+}
